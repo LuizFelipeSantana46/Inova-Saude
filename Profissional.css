@@ -1,0 +1,147 @@
+body{
+    background-color: #EDEFEC;
+
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 100;
+}
+.tipos{
+    width: 80%;
+    height: auto ;
+    display: flex;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #44A1A0;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+.tipos > img{
+    margin: 10px;
+}
+.medicoUm{
+    width: auto;
+    height: auto ;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #17686D;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+.medicoDois{
+    width: auto;
+    height: auto ;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #17686D;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+.medicoTres{
+    width: auto;
+    height: auto ;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #17686D;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.profileUm{
+    width: 80%;
+    height: auto ;
+    display: flex;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #44A1A0;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+.profileUm > img{
+    margin: 10px;
+}
+.profile{
+    width: 80%;
+    height: auto;
+    padding: auto;
+    margin: 10px;
+}
+.InfoUm{
+    width: 80%;
+    height: auto;
+    padding: auto;
+    margin: 10px;
+}
+
+.profileDois{
+    width: 80%;
+    height: auto ;
+    display: flex;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #44A1A0;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+.profileDois > img{
+    margin: 10px
+}
+.InfoDois{
+    width: 80%;
+    height: auto;
+    padding: auto;
+    margin: 10px;
+}
+
+.profileTres{
+    width: 80%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #44A1A0;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.InfoTres{
+    width: 80%;
+    height: auto;
+    padding: auto;
+    margin: 10px;
+}
+
+.InfoUm{
+    width: auto;
+    height: auto ;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #17686D;
+    border-radius: 10px;
+    margin: 10px;
+}
+.InfoDois{
+    width: auto;
+    height: auto ;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #17686D;
+    border-radius: 10px;
+    margin: 10px;
+}
+.InfoTres{
+    width: auto;
+    height: auto ;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #17686D;
+    border-radius: 10px;
+    margin: 10px;
+
+}
