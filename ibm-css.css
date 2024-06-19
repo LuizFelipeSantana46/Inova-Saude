@@ -1,0 +1,173 @@
+
+
+body{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 100;
+    margin: 0;
+    display: flex;
+}
+
+
+
+
+.profile{
+    width: 80%;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: column;
+    display: flex;
+    padding: 20px 30px;
+    background-color: #EDEFEC;
+    border-radius: 5px;
+    margin: 5px;
+    border: 2px solid #c1c2c0;
+
+}
+.profile > img{
+    border: 2px solid #9c9c9b;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.botao > p{
+    width: auto; 
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-weight: 800;
+    background-color: #EDEFEC;
+    border-radius: 5px;
+    border: 2px solid #9c9c9b;
+}
+
+.caixa-experiencia{
+    width: 80%;
+    align-items: center;
+    padding: 20px 30px;
+    background-color: #44A1A0;
+    border-radius: 5px;
+    margin: 10px;
+    border: 2px solid #c1c2c0;
+
+}
+
+.Certificados{
+    display: flex;
+    margin: 10px;
+}
+
+
+.section{
+    width:60%;
+    max-width: 600px;
+    
+}
+
+
+.comentarios{
+    width: auto;
+    margin: 10px;
+    background-color: #7abbbb;
+}
+
+
+.comentarios details summary{
+    width: auto;
+    height: 100%;
+    padding: 20px 30px;
+    background-color: #EDEFEC;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+
+.comentarios details p{
+    width: auto;
+    height: 100%;
+    padding: 20px 30px;
+    background-color: gray;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.disponivel > p{
+    width: auto; 
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-weight: 800;
+    background-color: #EDEFEC;
+    border-radius: 5px;
+    border: 2px solid #9c9c9b;
+}
+.info-agenda{
+    width: auto;
+    height: auto;
+    padding: 20px 30px;
+    background-color: #EDEFEC;
+    border-radius: 10px;
+    border: 2px solid #c1c2c0;
+    margin: 10px;
+}
+.experiencia{
+    margin: 10px;
+}
+
+.formacao{
+    margin: 10px;
+}
+
+.hora{
+    width: 80%;
+    height: auto;
+    padding: auto;
+    margin: 10px;
+}
+.opcao{
+    width: 80%;
+    height: auto;
+    padding: auto;   
+    margin: 10px;
+}
+
+.endereco{
+    width: 80%;
+    height: auto;
+    padding: auto;
+    margin: 10px;
+}
+.local{
+    margin: 20px;
+    display: flex;
+}
+.local > p {
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 10px;
+}
+.local > image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+.caixa-info{
+    width: auto;
+    margin: 10px;
+    background-color: #EDEFEC;
+    border-radius: 10px;
+    border: 2px solid #c1c2c0;
+}
+.caixa-info > p {
+    margin: 10px;
+}
+.localiza > img{
+    border: 2px solid #9c9c9b;
+    margin: 10px;
+}
